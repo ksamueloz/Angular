@@ -41,9 +41,6 @@ yarn-error.log
 testem.log
 /typings
 
-#Proyects
-angular-hola-mundo
-angular-whishlist/node_modules
 # System Files
-# .DS_Store 
-# Thumbs.db 
+.DS_Store
+Thumbs.db

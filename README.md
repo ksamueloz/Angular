@@ -1,29 +1,36 @@
-# README #
+# Angular #
+Notas de Angular
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### ¿Qué puedes hacer con este repositorio? ###
 
-### What is this repository for? ###
+* Descargarlo
+* O 
+* [Clonarlo](git clone git@bitbucket.org:ksamueloz/angular.git)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Instalar de herramientas para Angular ###
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Descarga Node Nvm de GitHub
+* [Descárgalo](https://github.com/coreybutler/nvm-windows)
+* Ver la versión
+* ## nvm --version ##
+* Listar las versiones que hay
+* ## nvm list ##""
+* Instalar una versión específica
+* ## nvm install (número versión) ##
+* Instalar la última estable a momento de la fecha que corre el comando
+* ## nvm install latest ##
+* Usar una versión específica, ver lista para confirmar el uso
+* ## nvm use (Número versión) ##
+* Versión de Node
+* ## node --version ##
+* Versión de Npm
+* ## npm -v ##
+* Instalar TypeScript
+* ## npm install -g typescript ##
+* Instalar Angular Cli
+* ## npm install -g @angular/cli
+* Ver la versión
+* ## ng --version ##
+* En caso de no salir la versión de Typescript con ng --version se usa:
+* ## tsc -v ##
+* Angular-Cli se utiliza para generar la estructura de 0 de un proyecto o bien para crear nuevos elementos como componentes, servicios, etc.
