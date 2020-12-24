@@ -112,5 +112,14 @@ a.btn-card {
     color: #fff;
 }
 
+footer {
+    padding-top: 2%;
+    margin-top: 10%;
+}
+
+#footer * {
+    color: rgba(27, 255, 244, 0.925)
+}
+
 
 /*	End	card	section	*/
